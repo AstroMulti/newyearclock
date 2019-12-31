@@ -1,0 +1,47 @@
+* {
+    padding: 0px;
+    box-sizing: border-box;
+    background-image: url('https://cdn.evbuc.com/images/83443301/312027861950/1/original.20191204-044921');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background: white;
+    font-size: 75px;
+    border: 2px solid #000000;
+    display: inline-block;
+    margin: 0px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.credit {
+    color: white;
+    right: 0%;
+    bottom: 0%;
+    position: absolute;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.title {
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    position: absolute;
+    top: 39%;
+    font-size: 50px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    border: 2px solid #000000;
+}
